@@ -1,1 +1,1 @@
-[![Build Status](https://img.shields.io/discord/671762839840489472?color=blue&label=chat&logoColor=blue)](https://dsc.gg/mrnoobers)s
+[![Build Status](https://img.shields.io/discord/671762839840489472?color=blue&label=chat&logoColor=blue)](https://dsc.gg/mrnoobers)
